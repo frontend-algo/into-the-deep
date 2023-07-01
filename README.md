@@ -4,7 +4,7 @@
 - 코딩 인터뷰를 준비하자
 
 ## 2. 진행 방식
-- 공유하고 싶은 문제나 풀이법이 있는 경우 저장소 [이슈](https://github.com/Choozii/fe-study/issues)로 등록한다.
+- 공유하고 싶은 문제나 풀이법이 있는 경우 저장소 [이슈](https://github.com/frontend-algo/into-the-deep/issues)로 등록한다.
 - 정해진 시간동안 같이 한 문제를 푼 후, 서로 인터뷰 형식으로 풀이 방법을 설명한다.
 
 ## 3. 규칙
