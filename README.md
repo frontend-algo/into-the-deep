@@ -28,4 +28,4 @@
 
 주차 | 풀이 url
 :---: | :---: | 
-1주차 | [어쩌고 저쩌고 문제](https://github.com/holdanddeepdive/typescript-study/issues/1) 
+1주차 | [Combination Sum](https://github.com/frontend-algo/into-the-deep/issues/5)
