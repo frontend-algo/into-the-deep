@@ -29,3 +29,4 @@
 주차 | 풀이 url
 :---: | :---: | 
 1주차 | [Combination Sum](https://github.com/frontend-algo/into-the-deep/issues/5)
+2주차 | [Longest Substring Without Repeating Characters](https://github.com/frontend-algo/into-the-deep/issues/11)
